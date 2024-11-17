@@ -1,7 +1,7 @@
 package homework9;
 
-import com.dmdev.lesson91homework.Util.UtilGenerateProblem;
-import com.dmdev.lesson91homework.solution.Solution;
+import homework9.Util.UtilGenerateProblem;
+import homework9.solution.Solution;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
