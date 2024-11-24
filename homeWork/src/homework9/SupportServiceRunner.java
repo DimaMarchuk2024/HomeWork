@@ -55,6 +55,7 @@ public class SupportServiceRunner {
     public static void main(String[] args) throws IOException, InterruptedException, ExecutionException {
 
         generateSupportService();
+        System.out.println("Hello");
 
     }
 
