@@ -15,6 +15,7 @@ public class DZ1Array {
         int[] values = {1, -12, 26, 10, -3, 0, 5};
 
         positiveArray(values);
+        System.out.println("Hello");
     }
 
     private static void positiveArray(int[] values) {
