@@ -11,6 +11,7 @@ public class DZ1 {
     public static void main(String[] args) {
         int minutes = 59;
         quarterHour(minutes);
+        System.out.println("Hello");
     }
 
     public static void quarterHour(int minutes) {
